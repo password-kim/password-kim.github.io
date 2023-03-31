@@ -272,3 +272,4 @@ defaults:
       toc_icon: "fas fa-list-ul"
       
 date_format: "%Y-%m-%d"
+future: true
